@@ -1,6 +1,6 @@
 ## Project 
 
-This repository presents my final solution for a 2022 Kaggle competition (https://www.kaggle.com/c/mva-recvis-2022) on fine-grained image classification. This competition was in the MVA Object Recognition and Computer Vision class. The goal of this competition was to design a model that has maximum test accuracy on Image Classiﬁcation of a subset of 20 classes and 1702 images of the Birds200 dataset. I achieved 90.322% of accuracy in the public leaderboard (8th place /131), and 91.160% of accuracy in the private leaderboard (9th place /131).
+This repository presents my final solution for a 2022 Kaggle competition (https://www.kaggle.com/c/mva-recvis-2022) on fine-grained image classification. This competition was in the MVA Object Recognition and Computer Vision class. The goal of this competition was to design a model that has maximum test accuracy on Image Classiﬁcation of a subset of the Birds200 dataset. I achieved 90.322% of accuracy in the public leaderboard (8th place /131), and 91.160% of accuracy in the private leaderboard (9th place /131).
 
 ## Task Description - Object recognition and computer vision 2022/2023 (MVA)
 
